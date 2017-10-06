@@ -8,5 +8,5 @@ Run `pip install -r requirements.txt`
 Use create_test_sheet.py to create a custom mutliple choice sheet for a student
 Use run.py to extract the answers from the sheet
 
-#Video
+# Video
 https://youtu.be/_2I0y8S_hBk
